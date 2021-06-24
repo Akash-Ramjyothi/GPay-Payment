@@ -5,13 +5,13 @@
 </p>
 
 ## 📜 Description:
-Developed an Android Application to make Payments through Google Pay. Integrated Google Pay API to the existing app and used hardcoded values to set UPID (akash.ramjyothi@icici). The amount to be transferred is set by the User from the App which is Parsed into the API to send the reciever the specified amount in Rupees. Made this project to demonstrate the support and integration of Payment gateways into custom 3rd party applications.
+The project "GPay Payment" is an Android Application to make Payments through Google Pay. Integrated Google Pay API to the existing app and used hardcoded values to set UPID (akash.ramjyothi@icici). The amount to be transferred is set by the User from the App which is Parsed into the API to send the reciever the specified amount in Rupees. Made this project to demonstrate the support and integration of Payment gateways into custom 3rd party applications.
 
 ## 🌎 Released Android Application:
 https://gofile.io/d/ZKZCGg
 
 ## 📽 Sample Demo:
-
+https://user-images.githubusercontent.com/54114888/123323087-ac51ab00-d552-11eb-8626-4a1e6ef70726.mp4
 
 ## 🏗 Built With:
 - Android Studio.
