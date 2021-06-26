@@ -10,6 +10,9 @@ The project "GPay Payment" is an Android Application to make Payments through Go
 ## 🌎 Released Android Application:
 https://gofile.io/d/ZKZCGg
 
+## 🖇️ Link for Reciever's UPID (Set Programmatically):
+https://github.com/Akash-Ramjyothi/GPay-Payment/blob/85dbb4aa86f9a0a8ff87849ced35443cd6bdd7ef/app/src/main/java/com/akashramjyothi/googlepaytest/MainActivity.java#L20
+
 ## 📽 Sample Demo:
 https://user-images.githubusercontent.com/54114888/123323087-ac51ab00-d552-11eb-8626-4a1e6ef70726.mp4
 
